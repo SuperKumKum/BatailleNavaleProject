@@ -80,7 +80,7 @@ private JPanel containerj1 = new JPanel();
     panel.add(lblNomDuJoueur_1);
     
     txtmichel = new JTextField();
-    txtmichel.setText("\"Michel\"");
+    txtmichel.setText("\"Jean Mi\"");
     panel.add(txtmichel);
     txtmichel.setColumns(10);
     
